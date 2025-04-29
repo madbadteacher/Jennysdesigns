@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #fdf6f9;
+    color: #5a2a6d;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #eec9ec;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #5a2a6d;
+    font-weight: bold;
+}
+main {
+    padding: 20px;
+}
+.products li {
+    margin: 10px 0;
+}
+footer {
+    background-color: #eec9ec;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
